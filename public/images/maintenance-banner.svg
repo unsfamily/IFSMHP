@@ -1,0 +1,15 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="maintenanceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EF4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#maintenanceGradient)"/>
+  <circle cx="200" cy="120" r="50" fill="#fff" opacity="0.3"/>
+  <rect x="180" y="100" width="40" height="50" rx="5" fill="#fff"/>
+  <circle cx="200" cy="80" r="15" fill="#fff"/>
+  <rect x="195" y="140" width="10" height="30" fill="#F59E0B"/>
+  <text x="200" y="210" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#fff" text-anchor="middle">Maintenance</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle" opacity="0.9">System Update</text>
+</svg>
